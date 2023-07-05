@@ -1,0 +1,27 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos generados al compilar
+dist/
+build/
+out/
+
+# Archivos de configuración sensibles
+.env
+.env.local
+.env.*.local
+
+# Archivos de registro y registros generados
+logs/
+*.log
+
+# Directorios y archivos específicos para sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+
+# Archivos de respaldo
+*.bak
+*.swp
